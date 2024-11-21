@@ -13,7 +13,7 @@ Kirigami.ApplicationItem {
         Kirigami.Page {
             Text {
                  anchors.centerIn: parent
-                 text: "Hello World"
+                 text: "Hello QT"
                  color: "red"
                  font.pointSize: 18
             }
